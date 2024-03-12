@@ -27,9 +27,9 @@ const AppBanner = () => {
             data-aos-delay="300"
             className='text-center sm:px-20'
           >
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
-            Veniam reprehenderit cum vel sint obcaecati 
-            cupiditate facilis nam omnis dicta fuga.
+          "Orange strengthens your emotional body,
+          encouraging a general feeling of joy, 
+          well-being, and cheerfulness."
           </p>
 
           {/* image link  */}

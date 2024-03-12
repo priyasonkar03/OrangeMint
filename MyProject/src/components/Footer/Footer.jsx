@@ -12,10 +12,11 @@ const Footer = () => {
                 data-aos="fade-up"
                 className='space-y-6'>
                     <h1 className='text-4xl font-bold'>Orange Mint</h1>
-                    <p className='text-sm max-w-[300px]'>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                         Quas recusandae consectetur, numquam nostrum rerum rem, 
-                         accusantium omnis eum minus sint, officiis provident perspiciatis. 
-                        At dolorum libero eius nihil magni recusandae.</p>
+                    <p className='text-sm max-w-[300px]'>
+                        When an Orange tastes like an onion, the knife
+                        takes the blame. but it is the one who handed us 
+                        the knife that should be questioned.   
+                    </p>
                 </div>
                 {/* Navlink section  */}
                 <div 

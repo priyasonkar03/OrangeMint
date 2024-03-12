@@ -7,24 +7,25 @@ const SecvicesData =[
         id:1,
         image: Fruit1,
         title:"Fresh Fruits",
-        subtitle:`lorem ipsum dolor sit amet,
-         consectetur  adipiscing elit.`,
+        subtitle:`The roots of education are bitter,
+         but the fruit is sweet `,
          aosDelay:"300"
     },
     {
         id:2,
         image: Fruit2,
-        title:"Fresh Fruits",
-        subtitle:`lorem ipsum dolor sit amet,
-         consectetur  adipiscing elit.`,
+        title:"Fruits Juice",
+        subtitle:`Roses are red, violets are blue.
+        But oranges are orange, we stay true to who we are.
+        `,
          aosDelay:"300"
     },
     {
         id:3,
         image: Fruit3,
         title:"Orange Juice",
-        subtitle:`lorem ipsum dolor sit amet,
-         consectetur  adipiscing elit.`,
+        subtitle:`Orange Juice is
+        like duct tape it fixes everything`,
         aosDelay:"300"
     }
 ]
@@ -38,9 +39,10 @@ const Services = () => {
                 className='text-primary'
                 >Tasty Fruits</span>{" "}
             </h1>
-            <p data-aos="fade-up" data-aos-delay="300" className='text-sm opacity-50'>Lorem, ipsum dolor sit amet consectetur 
-            adipisicing elit. Ratione rem placeat enim, 
-            enetur laboriosam temporibus in facere error similique fugit.</p>
+            <p data-aos="fade-up" data-aos-delay="300" className='text-sm opacity-50'>
+            "Life... is like a grapefruit. It's orange and squishy, 
+            and has a few pipe in it,some 
+            folks have half a one for breackfast"</p>
         </div>
 
         {/* card section  */}
