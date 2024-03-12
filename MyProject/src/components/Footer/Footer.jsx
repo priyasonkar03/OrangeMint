@@ -1,5 +1,5 @@
 import React from 'react'
-import {FaFacebook, FaGoogle, FaHardHat, FaHeart, FaInstagram, FaTelegram } from 'react-icons/fa'
+import {FaFacebook, FaGithub, FaGoogle, FaHardHat, FaHeart, FaInstagram, FaTelegram } from 'react-icons/fa'
 
 const Footer = () => {
   return (
@@ -70,7 +70,8 @@ const Footer = () => {
         {/* copyright section  */}
         <p className='text-white text-center mt-8 pt-8
         border-t-2'>
-            Copyright @copy:2024 Company Name. All rights reserverd <br />Priya Sonkar  
+            Copyright @copy:2024 Company Name. All rights reserverd <br />
+            <a href="https://github.com/priyasonkar03">Search by GitHub <b><u>Priya Sonkar</u></b></a>  
         </p>
     </div>
 </div>
